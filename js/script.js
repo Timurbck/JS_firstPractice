@@ -23,13 +23,4 @@ let a1 = prompt("Введите обязательную статью расхо
 
 alert(appData.budget / 30);
 
-console.log(appData["budget"]);
-console.log(appData["timeData"]);
-console.log(appData["expenses"]);
-console.log(appData["optionalExpenses"]);
-console.log(appData["income"]);
-console.log(appData["savings"]);
-console.log(appData["a1"]);
-console.log(appData["a2"]);
-console.log(appData["a3"]);
-console.log(appData["a4"]);
+
